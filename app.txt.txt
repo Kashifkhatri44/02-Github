@@ -1,2 +1,2 @@
-print("HELLO WORLD")
-Functionality Calculate 
+print("HELLO DUNYA")
+Functionality Calculate
